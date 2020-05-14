@@ -1,0 +1,14 @@
+First Come First Serve:
+
+P[1],0,3,	P[2],3,6,	P[3],6,8,	
+
+Average Waiting Time = 2.000000
+Average Turnaround Time = 4.666667
+
+
+Shortest Job First:
+
+P[1],0,3,	P[3],3,5,	P[2],5,8,	
+
+Average Waiting Time = 1.67
+Average Turnaround Time = 4.33
